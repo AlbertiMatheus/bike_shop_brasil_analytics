@@ -6,7 +6,7 @@ An enterprise-grade Business Intelligence and Analytics solution developed in **
 
 > 🔗 **[Click here to access the Live Interactive Dashboard]
 
-> **https://app.powerbi.com/view?r=eyJrIjoiODE1ZTk0MzctZWFmMC00ZTUxLWJlZmUtMzhiNzJlMzMwMDQ5IiwidCI6ImVkNWM4MDE1LWM0YzUtNGU2Yy04NGU0LWE5OTEwNDg4YTYyMiJ9)**
+> **https://app.powerbi.com/view?r=eyJrIjoiODE1ZTk0MzctZWFmMC00ZTUxLWJlZmUtMzhiNzJlMzMwMDQ5IiwidCI6ImVkNWM4MDE1LWM0YzUtNGU2Yy04NGU0LWE5OTEwNDg4YTYyMiJ9**
 ---
 
 ## 📷 Dashboard Preview
